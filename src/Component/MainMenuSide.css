@@ -1,0 +1,17 @@
+.sidebar {
+    display: flex; /* Menetapkan display flex untuk menggunakan fleksibilitas */
+    flex-direction: column;
+    background-color: white; /* Ubah warna latar belakang sesuai keinginan */
+    width: 15%; /* Tentukan lebar sidebar */
+    align-items: center; /* Pusatkan item secara vertical (sumbu Y) */
+    justify-content: center; /* Pusatkan item secara horizontal (sumbu X) */
+  }
+  
+  .flex-column {
+    width: calc(100% - 20px); /* Lebar sesuai dengan sidebar dikurangi margin */
+    margin: 10px; /* Tambahkan margin sesuai kebutuhan */
+    padding: 10px; /* Tambahkan padding sesuai kebutuhan */
+    text-align: center; /* Pusatkan teks secara horizontal */
+  }
+  
+  

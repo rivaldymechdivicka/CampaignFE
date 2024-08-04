@@ -1,0 +1,14 @@
+.campaign-content{
+    display: flex;
+}
+.mb-0{
+    font-size: medium;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.mb-1{
+    font-size: xx-large;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
